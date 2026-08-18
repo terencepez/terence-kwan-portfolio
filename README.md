@@ -34,3 +34,4 @@ The Cloudflare Pages project name is `terence-kwan-portfolio`. The current outpu
 - Images have been copied into `site/assets/` so the Cloudflare version does not rely on the existing Manus image URLs.
 Cloudflare deployment connected
 Second Cloudflare deployment test
+Final automatic deployment test
