@@ -6,6 +6,8 @@ a { color: inherit; text-decoration: none; }
 .site-page { min-height: 100vh; position: relative; overflow: clip; background: var(--ink); }
 .site-page.has-background::before { content: ""; position: fixed; inset: 0; z-index: 0; background: var(--page-background) center / cover no-repeat; }
 .site-page.has-background::after { content: ""; position: fixed; inset: 0; z-index: 1; background: linear-gradient(112deg, rgba(3, 6, 10, .86), rgba(3, 6, 10, .62) 48%, rgba(3, 6, 10, .82)); }
+.site-page.contact-page::before { filter: brightness(1.85) contrast(1.12) saturate(.9); }
+.site-page.contact-page::after { background: linear-gradient(112deg, rgba(3, 6, 10, .64), rgba(3, 6, 10, .34) 48%, rgba(3, 6, 10, .55)); }
 .site-page > * { position: relative; z-index: 2; }
 .shell { width: min(100% - 48px, 1480px); margin: 0 auto; }
 .site-header { padding: 24px 0; background: rgba(5, 7, 10, .7); }
