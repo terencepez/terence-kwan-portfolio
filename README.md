@@ -35,3 +35,4 @@ The Cloudflare Pages project name is `terence-kwan-portfolio`. The current outpu
 Cloudflare deployment connected
 Second Cloudflare deployment test
 Final automatic deployment test
+Verified GitHub automatic deployment
