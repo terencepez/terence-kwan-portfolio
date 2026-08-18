@@ -32,3 +32,4 @@ The Cloudflare Pages project name is `terence-kwan-portfolio`. The current outpu
 - `/admin` is intentionally not included.
 - The Contact page provides direct telephone and email links only. It does not submit enquiries or notify the owner.
 - Images have been copied into `site/assets/` so the Cloudflare version does not rely on the existing Manus image URLs.
+Cloudflare deployment connected
