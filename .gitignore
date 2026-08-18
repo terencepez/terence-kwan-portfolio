@@ -1,0 +1,11 @@
+dist/
+source/
+contact-mobile-qa.png
+static-mobile-qa.json
+deployment-manifest.json
+create-deployment.input.json
+upload-pages-assets.mjs
+prepare-deployment-request.mjs
+verify-static.mjs
+wrangler-pages-upload-reference.txt
+wrangler-pages-manifest-reference.txt
